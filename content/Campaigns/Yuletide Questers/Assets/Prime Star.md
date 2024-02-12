@@ -1,1 +1,0 @@
-The Prime Star is a rare and powerful artifact that is used to light up the Winter Festival tree in Alderheart. Without it, the festival will lose its magic and joy.
