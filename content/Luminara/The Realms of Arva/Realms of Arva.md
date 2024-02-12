@@ -1,7 +1,4 @@
----
-aliases:
-  - Realm of Arva
----
+
 > [!info]
 > 
 > The Realms of Arva is a collection of solar systems. These worlds were created by [[El]] while [[Arva]], one of the [[El-nur]], encouraged him to pour out his love of life in abundance. See: [[Realms of Arva - Unknown History]] 
