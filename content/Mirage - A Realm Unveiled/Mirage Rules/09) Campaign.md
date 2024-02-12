@@ -2,6 +2,9 @@
 quickshare-date: 2024-02-10 21:30:27
 quickshare-url: "https://noteshare.space/note/clsg6bivc3207501mwemuy9wtv#j5I1wPioNdmX2k4X+X8QCW5qP0FSHPFh+82ayzGWujE"
 ---
+
+> [!Warning] Gamemaster only
+> All that follows in this chapter and those that follow are only intended for the Gamemaster. If you are a player, you should read no further - there are some very big spoilers ahead, beware!
 # Running Campaigns
 
 Games of Mirage are not only intended to invoke feelings of wonder and excitement, but also a sense of nostalgia - as if you and your players were right in the midst of a grand story, told around the campfire late at night. To this end, we've compiled some suggestions for you that should help encourage this atmosphere.
