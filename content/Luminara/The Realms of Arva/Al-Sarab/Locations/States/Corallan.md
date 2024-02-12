@@ -1,0 +1,3 @@
+[[Corallan]] sits in the northern parts of Al-Sarab. Although predominantly covered in Grasslands, the northern parts of Corallan are well known for her upper reaches of subartic forests and tundra.
+
+Two predominant cultures exist in Corallan, simply known as [[Northern-Coralli]] and [[Southern-Coralli]]. Most in [[Corallan]] worship [[An-Nur]], though the southern parts of the mainland do follow [[Zahrat]] and her followers. 

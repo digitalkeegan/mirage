@@ -1,0 +1,7 @@
+Terra 33 - simply known as "Earth" by it's inhabitants is a [[Realms of Arva|Realm of Arva]]. 
+
+In an age where magic intertwines with science, the realm of Terra 33 is in it's 21st century, standing as a crucible of diversity and innovation. Vast cities of towering steel and glass touch the heavens, humming with the energy of modernity. Across sprawling landscapes, nature's majesty mingles with human ingenuity, from the neon-lit streets of metropolises to the serene solitude of untouched wilderness.
+
+The skies above, a canvas of shifting colors, bear witness to the ceaseless motion of airplanes and spacecraft, carrying adventurers and explorers to uncharted frontiers. Radiant screens weave a digital tapestry, connecting minds across continents in an intricate web of communication and knowledge. An orchestra of cultures and languages unfolds, as people from myriad backgrounds share their stories and aspirations.
+
+Yet, amid this symphony of progress, whispers of ancient mysteries linger. Legends of the past echo through time, and the very Earth pulses with primordial energies, at times hidden beneath the surface, at others shaping the destinies of nations. As dragons of industry rise alongside wizards of technology, the 21st century Earth is a world where the magical and the mundane coexist, inviting daring souls to script their own epics against a backdrop of unprecedented possibilities.

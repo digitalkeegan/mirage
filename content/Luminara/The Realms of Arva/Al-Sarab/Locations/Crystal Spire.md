@@ -1,0 +1,1 @@
+The Crystal Spire has not moved in as long as people have known about it - making it a perfect place to call home for many different communities of the years. Currently home to the [[Spires|Spire Sufis]] who believe that making use of magic (including the magic that protects settlements from changing) infringes on the Divine's domain. 

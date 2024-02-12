@@ -1,0 +1,4 @@
+The [[Second Worshippers]] worship First Worshippers, believing that a civilisation that created such, massive wonders throughout the world could not have simply perished. Practising a sort of ancestor worship, many of the [[Second Worshippers]] don't actually believe that the long-gone First Worshippers can hear their prayers or are active in world affairs. As such, the prayers of the [[Second Worshippers]] are more of a type of meditation with their faith focused around societal development in preparation for the return of the First Worshippers. Others, though, seek to emulate the the original faith of the First Worshippers, claiming that they worshipped the Solar Crystal, and thus do so as well. Because of this, many believe that they are essentially worshippers of [[An-Nur]], just with a more pronounced focused on the First Worshippers.
+
+| ![[secondworshiperpriest_01.png\|300]] | ![[secondworshiperpriest_02.png\|300]] |
+| ---- | ---- |

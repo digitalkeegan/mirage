@@ -1,0 +1,3 @@
+The Windy Shores exists as an unmeasured island that is surrounded by [[The Dark]]. This is where it is said the [[El-nur]] exist when not in relationship with the rest of creation. Sometimes called "The Great White",  The Timeless Halls, Valhalla.
+
+It is essentially cut off from the rest of creation, allowing only the [[El-nur]] and a select few to have access to it. Those within The Dark could conceivably gain access as well, but this doesn't seem possible as of now. 

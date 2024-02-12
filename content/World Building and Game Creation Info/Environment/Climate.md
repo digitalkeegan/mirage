@@ -1,0 +1,1 @@
+[[Weather]] acts as a short-term atmospheric conditions, while climate is the weather of a specific region averaged over a long period of time.

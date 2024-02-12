@@ -1,0 +1,2 @@
+
+In Al-Sarab, there are a few ways that "currency" is used. For most of the world, the use of glass disks is common, though in some places small bolts of fabric is also used. In games of Mirage, you will not need to track each disk of glass though. Instead, you'll use "Resources".

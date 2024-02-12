@@ -1,0 +1,1 @@
+The Luminara is a sort of massive multi-leveled universe that allows me to place all sorts of creations (films, books, games etc.) within it, knowing that there is a sort of cohesion and connectedness. Just because. The world has it's own [[Luminara Mythos]], and is primarily accessed via the [[Realms of Arva]], a section of [[The Universe]].

@@ -1,0 +1,1 @@
+[[Sarundar]] is the most populated, and arguably the most powerful state of Al-Sarab. Known for her vast deserts, her people are strong-willed and hard-working. Culturally [[Dari]], they worship [[Al-Khaliq]] as the one creator God. 

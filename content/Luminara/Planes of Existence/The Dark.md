@@ -1,0 +1,1 @@
+The Dark has different names, the Chaos Realm, The Demonic Realms. This is where demons, fiends, and [[The Shadows]] spawn from. Originally created as part of The Windy Shores, The Dark is sometime described as a vast sea, or dessert, or completely immaterial.

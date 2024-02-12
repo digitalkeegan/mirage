@@ -1,0 +1,1 @@
+The scale of the world for the [[RoA Wargame Goals]] will greatly impact the level of administration involved in [[Tracking Characters]] within the [[Living World]]. This has not been determined 

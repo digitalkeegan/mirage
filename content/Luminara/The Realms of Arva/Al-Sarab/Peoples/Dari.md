@@ -1,0 +1,1 @@
+The [[Dari]] people are, by, far the most numerous in Al-Sarab, being found in all regions of the known world.  

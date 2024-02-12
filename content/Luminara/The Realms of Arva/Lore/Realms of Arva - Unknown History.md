@@ -1,0 +1,7 @@
+
+
+Early in the creation of the worlds El, the great Creator, approached Arva and invited her to weave a portion of the great story alongside him. El and Arva, together, created the great Solar Crystal, a shard that spanned the size of a galaxy of stars. This shard was to be a beacon of creativity and love - a shard that a universe of worlds could look to in the night sky and know that all the El-nur, great and small, looked down upon them. 
+
+When The Sundering occurred, Arva moved to defend the Solar Crystal, leaving the Windy Shores to dwell in creation, vigilant to an enemy that would surely seek the destruction of something so good. And so Arva was proven right, for the Shadows, led by the Nahash himself, descended on the great shard with all their might. Further and further was Arva pushed back, until, finally, the enemy surrounded her form. While she held tight to the crystal, Arva was finally crushed and her being was broken against the shard itself. Both Arva and the Solar Crystal were shattered into infinite slivers of crystal and light.
+
+As the soul of Arva collapsed, it coalesced with the now shattered fragments of the Solar Crystal, and from this destruction what would become known as the Realms of Arva began to exist. A galaxy was formed of the fragmented remains of god and crystal, brought together by the Wind Everlasting. Worlds incalculable formed out of the milieu, most of whom do not even know the name Arva, let alone from whence they came. 

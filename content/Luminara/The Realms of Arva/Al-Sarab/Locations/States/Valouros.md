@@ -1,0 +1,3 @@
+[[Valouros]] is by far the most varied state in Al-Sarab, home to jungles, snow-covered mountains as well as deserts. 
+
+Culturally, many that call this part of the world are [[Dari]], though the southern parts of [[Valouros]] is home to the [[Endari]], well known as the [[Second Worshippers]]. Recently, those that moved onto the higher parts of [[Valouos]] have also taken up worshipping [[Zahrat]] - possibly looking to, or inspired by those in [[Zepheria]].

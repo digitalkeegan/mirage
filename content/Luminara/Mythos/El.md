@@ -1,0 +1,1 @@
+El is the supreme being of the universe, creator of all existence. He is “The One”, “The Primary”, “The Name”, “The Creator”, “The Mother”, and countless other known and unknown names throughout the cosmos.  

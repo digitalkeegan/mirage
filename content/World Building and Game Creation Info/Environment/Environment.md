@@ -1,0 +1,1 @@
+The Environment is basically everything that *doesn't* have a mind behind it. It can be useful in [[Drive Story]]. It can include the [[Geography]], [[Climate]], [[Weather]], [[Biome]]s, and [[Planetary Scale Uniqueness]]
