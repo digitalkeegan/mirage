@@ -1,5 +1,0 @@
-- Social
-- Political
-- Economic
-- Religion/Faction
-- Military

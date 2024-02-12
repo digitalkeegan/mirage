@@ -1,1 +1,0 @@
-NPCs should be filled out. we can use the [[OGAS]] system to do this. We should be able to [[Tracking Characters]], but I need to work out whether they are driven by an [[AI]], and if so, to what extent?

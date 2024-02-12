@@ -1,3 +1,0 @@
-In order to facilitate a conceivably infinite amount of options that players will have in creating peoples, factions, locations, and worlds, we will need to have a [[Multiverse]], with not only multiple [[worlds]], but other dimensions. These dimensions should be one and the same as those found in within the [[The Universe]]. The [[worlds]] created by players should all be a part of [[Realms of Arva]], and although technically [[Realms of Arva]], they would be functionally separated from the rest of [[The Luminara]] 
-
-Beings within these worlds will need some way to travel between worlds. Initially this could be very open (like through gateways or spells), or 
