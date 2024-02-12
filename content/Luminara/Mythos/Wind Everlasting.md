@@ -1,1 +1,0 @@
-The creative spark that resides in all creatures created by [[El]]and the [[El-nur]]

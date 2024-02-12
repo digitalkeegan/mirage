@@ -1,2 +1,0 @@
-
-When [[The Nahash]] leads some members of the council in rebellion, and they leave [[The Windy Shores]] to reside in creation, or what will eventually become [[The Dark]] as they seek to corrupt and destroy. These corrupted El-nur come to be known as [[The Shadows]]. 
