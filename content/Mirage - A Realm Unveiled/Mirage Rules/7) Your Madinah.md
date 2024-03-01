@@ -87,7 +87,10 @@ Here are some examples:
 
 ## A Mirage Unravels
 
-During the creation of your Region, you'll have decided on the primary biome your Madinah is located in. Although Al-Sarab is well known for it's ever-changing nature, these changes happen on the scale of decades. With one exception, that of Mirages. These mirages are magical phenomena that create unique and strange landscapes in the space of hours, or even minutes. For example, they might be lush vegetation, and sparkling water sources in the midst of the shifting desert, or hot sand dunes and dry canyons within a humid jungle. Recently, a roving Mirage has unravelled in the local area and it is not possible to predict just how long the Mirage will be around for.
+During the creation of your Region, you'll have decided on the primary biome your Madinah is located in. Although Al-Sarab is well known for it's ever-changing nature, these changes happen on the scale of decades. With one exception - that of Mirages. These mirages are magical phenomena that create unique and strange landscapes in the space of hours, or even minutes. For example, they might be lush vegetation, and sparkling water sources in the midst of the shifting desert, or hot sand dunes and dry canyons within a humid jungle. Recently, a roving Mirage has unravelled in the local area and it is not possible to predict just how long the Mirage will be around for.
+
+> [!info] The nature of an anchor
+> A madinah's anchor protects the area from the change-magic of Al-Sarab. But the environment outside this protective shield is very much visible from the inside of the protective magic. If a madinah is located inside a desert, and a rogue mirage turns the outside area into a jungle, the denizens of the madiah can see the jungle. 
 
 The magical nature of Mirages often attract the attention of nomadic tribes, adventurers, or mystical creatures, so beware, you are unlikely to be alone for very long. But exploring them will often come with immense boons as they may provide various benefits when discovered, including rare resources, unique encounters, or clues leading to hidden treasures.
 
@@ -98,40 +101,40 @@ To finalise the Madinah creation process, roll or let the GM choose on the Biome
 At the beginning of each session, the GM rolls a D12 and consults the Shifting Mirage table below to determine what, if anything, has changed with regard to this Mirage. They can reroll if you've rolled the same effect recently or if for some reason the effect wouldn't be possible.
 
 #### Shifting Mirage
-| D12 | Mirage Change |
-| ---- | ---- |
-| 1 | The Mirage is stuck - nothing changes. |
-| 2 | The Mirage is filled with a deep fog that isn't burnt away by daylight. Continue with the previous biome, just with the fog. |
-| 3 | The Mirage shifts its nature - turning into a new biome. |
-| 4 | TBD |
-| 5 | TBD |
-| 6 | The Mirage is stuck - nothing changes. |
-| 7 | TBD |
-| 8 | The Mirage shifts its nature - turning into a new biome. |
-| 9 | The Mirage flickers for a time before the entire sky shifts. It is night in the Mirage when the rest of the Region (including your Madinah) is day, and day when the Region is at night. |
-| 10 | The Mirage pulls at the fabric of time and the area is pushed back in time 500 years (if the Mirage changes again, all people are returned to their own time). |
-| 11 | Something has happened to your anchor and it fails for long enough for the Mirage to change the biome of the Madinah itself. Roll on the Biome Inspiration table - the environment within the Madinah, and out in the region, is now the same. If the anchor broke, once it is repaired it "locks in" whatever environment reigns at that time. Otherwise, if it was a momentary failing, then the anchor returns to normalcy soon after the shift and "locks in" whatever environment reigns at that time. |
-| 12 | The Mirage disappears. |
+| D12 | Mirage Change                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | The Mirage is stuck - nothing changes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 2   | The Mirage is filled with a deep fog that isn't burnt away by daylight. Continue with the previous biome, just with the fog.                                                                                                                                                                                                                                                                                                                                                                                |
+| 3   | The Mirage shifts its nature - turning into a new biome.                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 4   | TBD                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 5   | TBD                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 6   | The Mirage is stuck - nothing changes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 7   | TBD                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 8   | The Mirage shifts its nature - turning into a new biome.                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 9   | The Mirage flickers for a time before the entire sky shifts. It is night in the Mirage when the rest of the Region (including your Madinah) is day, and day when the Region is at night.                                                                                                                                                                                                                                                                                                                    |
+| 10  | The Mirage pulls at the fabric of time and the area is pushed back in time 500 years (if the Mirage, changes again, all people are returned to their own time).                                                                                                                                                                                                                                                                                                                                             |
+| 11  | Something has happened to your anchor and it fails for long enough for the Mirage to change the biome of the Madinah itself. Roll on the Biome Inspiration table - the environment within the Madinah, and out in the region, is now the same. If the anchor broke, once it is repaired it "locks in" whatever environment reigns at that time. Otherwise, if it was a momentary failing, then the anchor returns to normalcy soon after the shift and "locks in" whatever environment reigns at that time. |
+| 12  | The Mirage disappears.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 #### Biome Inspiration
-| D20 | Biome |
-| ---- | ---- |
-| 1 | Grassland |
-| 2 | Woodland |
-| 3 | Forest |
-| 4 | Swamp |
-| 5 | Desert |
-| 6 | Tropical Rainforest |
-| 7 | Snowy Hills |
-| 8 | Eroded Plateaus |
-| 9 | Savannah |
-| 10 | Small Ocean |
-| 11 | Mountain |
-| 12 | Tundra |
-| 13 | Mushroom Fields |
-| 14 | Volcanic Terrain |
-| 15 | Floating Islands |
-| 16 | Subterranean Crystals |
-| 17 | Blasted, lifeless |
-| 18 | Bioluminescent Glades |
-| 19 | Sandy Dunes |
-| 20 | Twilight Grive |
+| D20 | Biome                 |
+| --- | --------------------- |
+| 1   | Grassland             |
+| 2   | Woodland              |
+| 3   | Forest                |
+| 4   | Swamp                 |
+| 5   | Desert                |
+| 6   | Tropical Rainforest   |
+| 7   | Snowy Hills           |
+| 8   | Eroded Plateaus       |
+| 9   | Savannah              |
+| 10  | Small Ocean           |
+| 11  | Mountain              |
+| 12  | Tundra                |
+| 13  | Mushroom Fields       |
+| 14  | Volcanic Terrain      |
+| 15  | Floating Islands      |
+| 16  | Subterranean Crystals |
+| 17  | Blasted, lifeless     |
+| 18  | Bioluminescent Glades |
+| 19  | Sandy Dunes           |
+| 20  | Twilight Grive        |

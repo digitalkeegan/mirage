@@ -12,7 +12,7 @@ Roleplaying is a conversation. The Gamemaster describes the scene, you describe 
 > Marksmanship (Agility) 
 > Grace (Agility) 
 > Shadowcraft (Agility) 
-> Artistry (Wits) 
+> Culture (Wits) 
 > Observation (Wits) 
 > Survival Instincts (Wits) 
 > Healing (Empathy) 

@@ -62,7 +62,7 @@ For example, if you choose to make a skill roll while casting a spell and roll a
 |66|Your magic rips open a rift in the fabric of the material realm, and an iftrit pulls you over to the other side. Time to make a new character. Your old character will come back as an NPC after D66 days but will be… changed.|
 
 > [!faq] Grimoires
-You don’t need your spells written down to cast them, but it makes it easier to get it right. Grimoires are highly sought-after artifacts among magic users. If you cast a spell from a book or a scroll, its rank is considered one step lower than usual. In combat, you must spend a fast action readying your grimoire before you can cast each spell. Writing down a spell requires that you first cast it once. Then, you must spend at least a Quarter Day with quill in hand and make a successful Artistry roll. Writing down a ritual takes two Quarter Days.
+You don’t need your spells written down to cast them, but it makes it easier to get it right. Grimoires are highly sought-after artifacts among magic users. If you cast a spell from a book or a scroll, its rank is considered one step lower than usual. In combat, you must spend a fast action readying your grimoire before you can cast each spell. Writing down a spell requires that you first cast it once. Then, you must spend at least a Quarter Day with quill in hand and make a successful Culture roll. Writing down a ritual takes two Quarter Days.
 
 ### Range Categories
 
@@ -81,7 +81,7 @@ _The magic disciplines differ, but there are certain effects and spells that all
 
 ### Magical Shield
 
-- Skill: Observation (Wits), Might (Strength), Artistry (Wits)
+- Skill: Observation (Wits), Might (Strength), Culture (Wits)
 - Rank 1
 - Range: Engaged
 - Duration: Quarter Day
@@ -99,7 +99,7 @@ As someone sensitive to magic, you usually sense whenever someone uses magic wit
 
 ### Obscure Magic
 
-- Shadowcraft (Agility), Grace (Agility), Artistry (Wits)
+- Shadowcraft (Agility), Grace (Agility), Culture (Wits)
 - Rank 2
 - Range: Personal
 - Duration: Immediate
@@ -117,12 +117,12 @@ You can interfere with the spells cast by other magic users. This spell is react
 
 ### Bind Magic
 
-- Artistry (Wits)
+- Culture (Wits)
 - Rank 3, Ritual
 - Range: Personal
 - Duration: Varies
 
-Skilled magic users can Bind spells to objects to create magical traps or powerful magical artefacts. You cast the spell like any other, but you must make an Artistry roll and gain at least one success. This does not count toward the power level of the original spell but binds your spell to an object - instead of unleashing its power immediately. Rituals cannot be Bound. Roll for any mishaps when the spell is Bound. When cast at a power level of 2, the magic lingers for one day, or until the spell is triggered. At a power level 3 the magic lingers forever, but dissipates when the spell is triggered. Power level 4 binds the spell to the object forever and it can be triggered once per day. You can bind the spell in whatever manner you wish. You decide how the spell is triggered. Common methods include a certain phrase being uttered or that the object is opened, broken, or thrown to the ground. Once the spell is triggered, it has the same effect as if it had been cast normally. You cannot bind a spell to a living creature.
+Skilled magic users can Bind spells to objects to create magical traps or powerful magical artefacts. You cast the spell like any other, but you must make an Culture roll and gain at least one success. This does not count toward the power level of the original spell but binds your spell to an object - instead of unleashing its power immediately. Rituals cannot be Bound. Roll for any mishaps when the spell is Bound. When cast at a power level of 2, the magic lingers for one day, or until the spell is triggered. At a power level 3 the magic lingers forever, but dissipates when the spell is triggered. Power level 4 binds the spell to the object forever and it can be triggered once per day. You can bind the spell in whatever manner you wish. You decide how the spell is triggered. Common methods include a certain phrase being uttered or that the object is opened, broken, or thrown to the ground. Once the spell is triggered, it has the same effect as if it had been cast normally. You cannot bind a spell to a living creature.
 
 ### Transfer
 
@@ -299,7 +299,7 @@ You spread harmony and serenity around you with this spell, which helps you in s
 
 ### Weathermaster
 
-- Artistry (Wits), Survival Instincts (Wits)
+- Culture (Wits), Survival Instincts (Wits)
 - Rank 3
 - Range: Extreme
 - Duration: Quarter Day
@@ -388,7 +388,7 @@ _Elemental magic is the art of manipulating the very building blocks of existenc
 
 ### Combustion
 
-- Survival Instincts (Wits), Artistry (Wits)
+- Survival Instincts (Wits), Culture (Wits)
 - Rank 1
 - Range: Short
 - Duration: Immediate
@@ -405,7 +405,7 @@ If used against clothes or armour, roll a pair of dice using the table below to 
 
 ### Sunder
 
-- Might (Strength), Artistry (Wits)
+- Might (Strength), Culture (Wits)
 - Rank 1
 - Range: Engaged
 - Duration: Immediate

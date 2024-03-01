@@ -67,7 +67,7 @@ Endurance (Strength)
 Marksmanship (Agility)  
 Grace (Agility)  
 Shadowcraft (Agility)  
-Artistry (Wits)  
+Culture (Wits)  
 Observation (Wits)  
 Survival Instincts (Wits)  
 Healing (Empathy)  
@@ -120,16 +120,16 @@ Your Resources value indicates how much capital you have at your disposal. A hig
 
 ### Resources
 
-|Value|Standard of Living|
-|:-:|:-:|
-|1|**Destitute**. You are completely dependent on others for your survival. Every day is a struggle for food and you have few, if any, belongings. This may have caused you to contract diseases, starve, or turn to drugs or alcohol for relief.|
-|2|**Poor**. You live very simply. Most days there is food on the table, but far too little. If you have children, they are forced to live in squalor. You might own a change of clothes and a few possessions. Loss of income would be disastrous for you and your family.|
-|3|**Struggling**. You have a humble home and a fixed income. You have no money for savings, but you can dress your family for special occasions and your children have some access to education – at least for a few years.|
-|4|**Financially Stable**. You own your own home and have a job that provides a steady income. Most likely you have some money stashed away. Occasionally you may treat yourself to some sweets, a trip, or a beautiful object. In times of crisis there are people to lend you money.|
-|5|**Middle-class**. You own a home and maybe a business. You may even have one or several employees and know how to invest for the future. You have savings and access to loans. You and your family are living well.|
-|6|**Well-off**. You have a big house or apartment. You probably have multiple sources of income and several employees. You do not think of money as a scarce resource, but as a game to increase your capital and influence. You keep fine company and have little contact with the poor. Your family can go on trips and you can afford all the latest innovations.|
-|7|**Wealthy**. You have large amounts of inherited money and real estate. You probably own multiple properties, keep lots of servants, and have many sources of income. There are few things you cannot afford. You are well-connected with the city’s and country’s elite, and on good terms with senior officials, politicians, and nobles. The only time you see any poor people is through your carriage window.|
-|8|**Filthy Rich**. You are one of the richest people in the country and have direct contact with its rulers. You own one or several castles or mansions. There is no expense too great. You can treat yourself to lavish extravagance without ever worrying about the cost.|
+| Value |                                                                                                                                                                                                 Standard of Living                                                                                                                                                                                                 |
+| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   1   |                                                                                   **Destitute**. You are completely dependent on others for your survival. Every day is a struggle for food and you have few, if any, belongings. This may have caused you to contract diseases, starve, or turn to drugs or alcohol for relief.                                                                                   |
+|   2   |                                                                      **Poor**. You live very simply. Most days there is food on the table, but far too little. If you have children, they are forced to live in squalor. You might own a change of clothes and a few possessions. Loss of income would be disastrous for you and your family.                                                                      |
+|   3   |                                                                                             **Struggling**. You have a humble home and a fixed income. You have no money for savings, but you can dress your family for special occasions and your children have some access to education – at least for a few years.                                                                                              |
+|   4   |                                                                **Financially Stable**. You own your own home and have a job that provides a steady income. Most likely you have some money stashed away. Occasionally you may treat yourself to some sweets, a trip, or a beautiful object. In times of crisis there are people to lend you money.                                                                 |
+|   5   |                                                                                                **Middle-class**. You own a home and maybe a business. You may even have one or several employees and know how to invest for the future. You have savings and access to loans. You and your family are living well.                                                                                                 |
+|   6   |                         **Well-off**. You have a big house or apartment. You probably have multiple sources of income and several employees. You do not think of money as a scarce resource, but as a game to increase your capital and influence. You keep fine company and have little contact with the poor. Your family can go on trips and you can afford all the latest innovations.                         |
+|   7   | **Wealthy**. You have large amounts of inherited money and real estate. You probably own multiple properties, keep lots of servants, and have many sources of income. There are few things you cannot afford. You are well-connected with the city’s and country’s elite, and on good terms with senior officials, politicians, and nobles. The only time you see any poor people is through your carriage window. |
+|   8   |                                                                     **Filthy Rich**. You are one of the richest people in the country and have direct contact with its rulers. You own one or several castles or mansions. There is no expense too great. You can treat yourself to lavish extravagance without ever worrying about the cost.                                                                      |
 
 ### Gear & Equipment
 
@@ -142,9 +142,11 @@ The things you learn during the game are measured in Experience Points (XP). You
 - Did you participate in the game session?
 - Did you explore a new location?
 - Did you defeat one or more dangerous adversaries?
-- Did you overcome an obstacle without using force?
-- Did you act according to your pride/shame/relationships?
-- Did you act in accordance with your values and beliefs when difficult?
+- Did you overcome an obstacle without using force? 
+- Did you take risks to protect other people in some way? (How?)
+- Have you learned anything? (What?)
+- Were you affected by your shame?
+- Did you perform an extraordinary action?
 
 The GM has the final word when it comes to how much XP each character should get.
 
@@ -343,7 +345,7 @@ _Master of Potions and Elixirs:_ A mystical artisan skilled in the ancient craf
 _Compassionate Caretaker:_ A compassionate caregiver whose healing abilities go beyond physical mending. The Healer not only tends to wounds but provides emotional support, aiding recovery with empathy. They may be found in medical professions or as spiritual guides.
 
 **Primary Attribute:** Wits or Empathy  
-**Recommended Skills:** Healing, Artistry, Observation, Intuition, Inspiration  
+**Recommended Skills:** Healing, Culture, Observation, Intuition, Inspiration  
 **Resources:** 4-5
 
 ##### Talents
@@ -362,7 +364,7 @@ Pick one. You can learn more during play. The next chapter details all of the ta
 
 ##### Gear
 
-A Staff, knife, or arcane focus, an Alchemy kit, a selection of rare herbs and ingredients, vials for potions, a telescope, reliquary, or scriptures, D6 Silver.
+A Quarterstaff, knife, or arcane focus, an Alchemy kit, a selection of rare herbs and ingredients, vials for potions, a telescope, reliquary, or scriptures.
 
 or
 
@@ -373,7 +375,7 @@ Healing herbs and bandages, a small medical kit, a comforting item (blanket, ted
 _Keeper of Ancient Knowledge:_ A scholar specializing in the preservation of historical wisdom. The Archivist is dedicated to safeguarding ancient texts and artifacts, unraveling the mysteries of the past. Their expertise extends to various fields, including art and grace.
 
 **Primary Attribute:** Wits  
-**Recommended Skills:** Observation, Artistry, Intuition  
+**Recommended Skills:** Observation, Culture, Intuition  
 **Resources:** 3-5
 
 ##### Talents
@@ -399,7 +401,7 @@ Scholarly robes, a collection of ancient scrolls, magnifying glass, a collection
 _Skilled Craftsman Creating Intricate Works of Art:_ The Artisan combines technical skill with artistic flair, producing items that are both functional and beautiful. Their craft may include various mediums, from metalwork to sculpture to music.
 
 **Primary Attribute:** Wits  
-**Recommended Skills:** Artistry, Inspiration, Observation  
+**Recommended Skills:** Culture, Inspiration, Observation  
 **Resources:** 2-5
 
 ##### Talents
@@ -432,7 +434,7 @@ _Charismatic Narrator Captivating Audiences with Tales:_ A charismatic narrator
 
 Pick one. You can learn more during play. The next chapter details all of the talents
 
-- Any Magic Specialty
+- Any Magic Speciality
 - Charismatic Enchanter
 - Beautiful
 - Seductive

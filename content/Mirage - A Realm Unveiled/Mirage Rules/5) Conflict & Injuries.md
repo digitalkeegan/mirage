@@ -81,21 +81,22 @@ Fast actions are quick and rarely require a test to succeed; you might shout a w
 
 ### Fast Actions
 
-|Fast Action|Skill|
-|:-:|:-:|
-|Move inside the zone|Grace (in cluttered zone)|
-|Move into an adjacent zone|Grace (in cluttered zone)|
-|Get up|-|
-|Draw weapon or swap weapon|-|
-|Block attack (interruption)|Bladework|
-|Dodge (interruption)|Grace|
-|Break free (interruption)|Bladework|
-|Seek cover|-|
-|Steer|Grace|
-|Saddle up onto a Mount|Grace|
-|Use item|Varies|
-|Cast a power word spell|Varies|
-|Assume Overwatch position|-|
+|         Fast Action         |           Skill           |
+| :-------------------------: | :-----------------------: |
+|    Move inside the zone     | Grace (in cluttered zone) |
+| Move into an adjacent zone  | Grace (in cluttered zone) |
+|           Get up            |             -             |
+| Draw weapon or swap weapon  |             -             |
+| Block attack (interruption) |         Bladework         |
+|    Dodge (interruption)     |           Grace           |
+|  Break free (interruption)  |         Bladework         |
+|         Seek cover          |             -             |
+|            Steer            |           Grace           |
+|   Saddle up onto a Mount    |           Grace           |
+|          Use item           |          Varies           |
+|   Cast a power word spell   |          Varies           |
+|          Take Aim           |             -             |
+|                             |                           |
 
 ### Describe Your Actions
 
@@ -151,17 +152,17 @@ A spear with range 0-1 can be used in the same zone as your enemy or one zone aw
 > [!info] Ammunition
 You are expected to carry enough ammunition to use your weapon. In combat you have time to reload between actions. In certain situations the GM may ask you to keep track of how many arrows you have left – perhaps you are trapped in a network of caves and must preserve your resources.
 
-### Overwatch
+### Take Aim
 
-As a fast action, you can assume an overwatch position in a specified direction, as long as you have a ranged weapon and no enemies next to you within melee range. This means that you aim in the specified direction and are ready to shoot. Between the time you assume the overwatch position and your time to act in the next round, you can fire your weapon against a target in the chosen direction. You can fire whenever you want in either your own, or the enemy's, turn. Your shot is resolved before all other actions – even if they are already declared. For example, if an enemy in the direction you are aiming attempts to fire a weapon, you can shoot first. The enemy is not allowed to change their attack after your overwatch attack.
+As a fast action, you can take aim in a specified direction, as long as you have a ranged weapon and no enemies next to you within melee range. This means that you focus in the specified direction and are ready to shoot. Between the time you take this fast action and the next time you act, you can shoot a ranged weapon as an interruption. Your shot is resolved before all other actions – even if they are already declared. For example, if an enemy in the direction you are aiming attempts to fire a weapon, you can shoot first. The enemy is not allowed to change their attack after your attack.
 
-Firing when in overwatch position counts as a normal attack (a slow action). Therefore, you must save your slow action in the round for any overwatch attack you want to make. If both you and an enemy assume overwatch positions against each other, and both choose to fire against each other, then an opposed Marksmanship roll determines which attack goes first. This roll does not count as an action for either of you.
+Firing while aiming, even if not as an interruption, counts as a normal attack (a slow action). Therefore, you must save your slow action in the round for any aimed shot you want to make. If both you and an enemy take aim against each other, and both choose to fire against each other, then an opposed Marksmanship roll determines which attack goes first. This roll does not count as an action for either of you.
 
-**Losing Overwatch:** You keep your overwatch position until you break it, or any of the following occurs:
+**Losing Focus:** You keep aiming until you break it, or any of the following occurs:
 
-- You perform any action other than overwatch fire.
-- You are attacked in Bladework.
-- You suffer damage
+- You perform any action other than fire.
+- You are attacked or otherwise moved.
+- You suffer damage.
 
 ## Fleeing & Chasing
 
@@ -289,14 +290,14 @@ The GM will decide when you must determine whether your Defects and Insights bec
 |52|Detached|Yes|1D6 hours|Defect: Egocentric, Healing −1|
 |53|Out-of-body experience|Yes|1D6 rounds|Defect: Dissociating, Marksmanship −2|
 |54|Dream state|Yes|1D6 rounds|Defect: Nightmares, Fear −2|
-|55|Return to childhood|Yes|1D6 rounds|Defect: Regressing, Artistry −2|
+|55|Return to childhood|Yes|1D6 rounds|Defect: Regressing, Culture −2|
 |56|Horrifying realization|Yes|1D6 rounds|Defect: Mortified, Healing −2|
 |61|Hypersensitive|Yes|1D6 days|Insight: Healer, Healing +3|
-|62|Possessed|Yes|1D6 minutes|Insight: Haunted, Artistry +3|
+|62|Possessed|Yes|1D6 minutes|Insight: Haunted, Culture +3|
 |63|Obsessed with detail|Yes|1D6 minutes|Insight: All-seeing, Observation +3|
 |64|Supernatural experience|Yes|1D6 minutes|Insight: Divine messenger, Inspiration +3|
 |65|Invaded by other people’s emotions|Yes|1D6 rounds|Insight: Absolute empathy, Observation +4|
-|66|Split consciousness|Yes|1D6 rounds|Insight: Enlightened, Artistry +4|
+|66|Split consciousness|Yes|1D6 rounds|Insight: Enlightened, Culture +4|
 
 
 # Fear
@@ -427,7 +428,7 @@ Your player character may need to procure weapons, armour, or other equipment. T
 
 ### Preparatory Equipment
 
-Equipment has a level between 1 and 5 that indicates its availability – how easy it is to acquire. Equipment is mostly obtained through contacts and status, represented by your Resources value (see chapter 2). Your party is expected to procure equipment for any excursions outside the Madinah, before leaving. When preparing for a trip in this way, each player rolls the number of dice indicated by their character’s Resources value. The number of successes is used to purchase equipment – for example, an item with availability level 1 costs one success, while another with level 3 costs three successes. You can donate successes to each other, or add them together to purchase higher level equipment and decide among yourselves who will carry the equipment, regardless of whose successes paid for it. Each player may also decide to move points from their free Capital, but will then have less money to spend while outside of the Madinah (see below).
+Equipment has a level between 1 and 5 that indicates its availability – how easy it is to acquire. Equipment is mostly obtained through contacts and status, represented by your Resources value (see chapter 2). Your party is expected to procure equipment for any excursions outside the Madinah, before leaving. When preparing for a trip in this way, each player rolls the number of D6 dice indicated by their character’s Resources value. The number of successes is used to purchase equipment – for example, an item with availability level 1 costs one success, while another with level 3 costs three successes. You can donate successes to each other, or add them together to purchase higher level equipment and decide among yourselves who will carry the equipment, regardless of whose successes paid for it. Each player may also decide to move points from their free Capital, but will then have less money to spend while outside of the Madinah (see below).
 
 ### Shopping inside the Madinah
 
@@ -437,16 +438,16 @@ For normal purchases, from someone willing to sell at a fixed price, the Resourc
 
 ### Modifier from Resources
 
-|Resources|Living Standards|Bonus|Capital|
-|:-:|:-:|:-:|:-:|
-|1|Destitute|-1|-|
-|2|Poor|-|-|
-|3|Struggling|-|1|
-|4|Financially stable|+1|2|
-|5|Middle-class|+1|3|
-|6|Well-off|+2|5|
-|7|Wealthy|+3|8|
-|8|Filthy rich|+5|12|
+| Resources |  Living Standards  | Bonus | Capital |
+| :-------: | :----------------: | :---: | :-----: |
+|     1     |     Destitute      |  -1   |    -    |
+|     2     |        Poor        |   -   |    -    |
+|     3     |     Struggling     |   -   |    1    |
+|     4     | Financially stable |  +1   |    2    |
+|     5     |    Middle-class    |  +1   |    3    |
+|     6     |      Well-off      |  +2   |    5    |
+|     7     |      Wealthy       |  +3   |    8    |
+|     8     |    Filthy rich     |  +5   |   12    |
 
 ## Body Armour
 
@@ -464,47 +465,47 @@ Tools, weapons, and other items help you by adding a bonus to your skill tests. 
 
 ### Equipment
 
-|Item|Bonus|Availability|Effect|
-|:-:|:-:|:-:|:-:|
-|Crowbar|+1|2|Break locks with Might|
-|Lockpicks|+1|2|Pick locks with Shadowcraft|
-|Opera glasses|+1|1|Use Observation from a distance|
-|Binoculars|+2|2|Use Observation from a distance|
-|Hunting trap|+1|1|Detect sneaking people with Observation|
-|Hunting equipment|+2|2|Use Survival Instincts in the wilderness|
-|Tinderbox|+1|1|Use Observation in dim places|
-|Hurricane lamp|+2|1|Use Observation in darkness and detect sneaking people with Shadowcraft|
-|Compass|+1|2|Use Survival Instincts to find the way|
-|Magnifying glass|+1|2|Use to find clues during Observation|
-|Camera|+2|3|Use to gain knowledge about a place with Artistry or Observation|
-|Writing utensils and paper|+1|1|Use to take notes during Artistry|
-|Slide rule|+1|2|Use to make calculations with Artistry|
-|Simple bandages|+1|1|Required for Healing|
-|Medical equipment|+2|2|Required for Healing|
-|Musical instrument|+1|2|Influence listeners with Inspiration|
-|Mastercrafted musical Instrument|+2|3|Influence listeners with Inspiration|
-|Cooking pot|+1|1|Cook with Inspiration|
-|Field kitchen|+2|2|Cook with Inspiration|
-|Simple provisions|+1|1|Last several days without Might tests|
-|Nutritious provisions|+1|2|Last many days without Might tests|
-|Liquor|+1|1|Inspire with alcohol|
-|Fine wines|+1|2|Inspire and Observe with alcohol|
-|Chemical equipment|+1|2|Determine cause of death with Observation|
-|Portable laboratory|+1|3|Produce poison with Artistry|
-|Book collection|+1|2|Use to find information for Artistry|
-|Old scrolls|+2|3|Use to find information for Artistry|
-|Crystal ball|+1|3|Use Observation to search for clues|
-|Map book|+1|2|Use for Observation and Survival Instincts when navigating|
-|Weak horse|+1|2|Use for Might|
-|Strong horse|+2|3|Use in Bladework and for Might|
-|Pet dog|+1|1|Use for Bladework|
-|Guard dog|+2|2|Use for Observation and Bladework|
-|Hunting dog|+3|3|Use for Observation, Bladework, and Survival Instincts|
-|Make-up|+1|1|Sometimes required for Inspiration|
-|Disguise|+2|2|Sometimes required for Inspiration|
-|Elegant disguise|+2|3|Sometimes required for Inspiration and can be used to sneak with Inspiration|
-|Rope|+1|1|Use Might to climb|
-|Rope ladder|+3|2|Use Might or Grace to climb|
+|               Item               | Bonus | Availability |                                    Effect                                    |
+| :------------------------------: | :---: | :----------: | :--------------------------------------------------------------------------: |
+|             Crowbar              |  +1   |      2       |                            Break locks with Might                            |
+|            Lockpicks             |  +1   |      2       |                         Pick locks with Shadowcraft                          |
+|          Opera glasses           |  +1   |      1       |                       Use Observation from a distance                        |
+|            Binoculars            |  +2   |      2       |                       Use Observation from a distance                        |
+|           Hunting trap           |  +1   |      1       |                   Detect sneaking people with Observation                    |
+|        Hunting equipment         |  +2   |      2       |                   Use Survival Instincts in the wilderness                   |
+|            Tinderbox             |  +1   |      1       |                        Use Observation in dim places                         |
+|          Hurricane lamp          |  +2   |      1       |   Use Observation in darkness and detect sneaking people with Shadowcraft    |
+|             Compass              |  +1   |      2       |                    Use Survival Instincts to find the way                    |
+|         Magnifying glass         |  +1   |      2       |                     Use to find clues during Observation                     |
+|              Camera              |  +2   |      3       |       Use to gain knowledge about a place with Culture or Observation       |
+|    Writing utensils and paper    |  +1   |      1       |                      Use to take notes during Culture                       |
+|            Slide rule            |  +1   |      2       |                    Use to make calculations with Culture                    |
+|         Simple bandages          |  +1   |      1       |                             Required for Healing                             |
+|        Medical equipment         |  +2   |      2       |                             Required for Healing                             |
+|        Musical instrument        |  +1   |      2       |                     Influence listeners with Inspiration                     |
+| Mastercrafted musical Instrument |  +2   |      3       |                     Influence listeners with Inspiration                     |
+|           Cooking pot            |  +1   |      1       |                            Cook with Inspiration                             |
+|          Field kitchen           |  +2   |      2       |                            Cook with Inspiration                             |
+|        Simple provisions         |  +1   |      1       |                    Last several days without Might tests                     |
+|      Nutritious provisions       |  +1   |      2       |                      Last many days without Might tests                      |
+|              Liquor              |  +1   |      1       |                             Inspire with alcohol                             |
+|            Fine wines            |  +1   |      2       |                       Inspire and Observe with alcohol                       |
+|        Chemical equipment        |  +1   |      2       |                  Determine cause of death with Observation                   |
+|       Portable laboratory        |  +1   |      3       |                         Produce poison with Culture                         |
+|         Book collection          |  +1   |      2       |                     Use to find information for Culture                     |
+|           Old scrolls            |  +2   |      3       |                     Use to find information for Culture                     |
+|           Crystal ball           |  +1   |      3       |                     Use Observation to search for clues                      |
+|             Map book             |  +1   |      2       |          Use for Observation and Survival Instincts when navigating          |
+|            Weak horse            |  +1   |      2       |                                Use for Might                                 |
+|           Strong horse           |  +2   |      3       |                        Use in Bladework and for Might                        |
+|             Pet dog              |  +1   |      1       |                              Use for Bladework                               |
+|            Guard dog             |  +2   |      2       |                      Use for Observation and Bladework                       |
+|           Hunting dog            |  +3   |      3       |            Use for Observation, Bladework, and Survival Instincts            |
+|             Make-up              |  +1   |      1       |                      Sometimes required for Inspiration                      |
+|             Disguise             |  +2   |      2       |                      Sometimes required for Inspiration                      |
+|         Elegant disguise         |  +2   |      3       | Sometimes required for Inspiration and can be used to sneak with Inspiration |
+|               Rope               |  +1   |      1       |                              Use Might to climb                              |
+|           Rope ladder            |  +3   |      2       |                         Use Might or Grace to climb                          |
 
 ### Melee Weapons
 

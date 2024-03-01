@@ -12,10 +12,10 @@ NPCs and animals do not usually recover Toughness during a adventure – once da
 | Archetype | Strength | Grace | Wits | Empathy | Physical | Mental | Skills |
 | Paladin | D12 | D10 | D8 | D8 | 2 | 2 | Might D8, Bladework D10, Observation D6 |
 | Dervish | D10 | D12 | D10 | D10 | 1 | 2 | Inspiration D8, Bladework D10, Grace D8, |
-| Alchemist | D8 | D12 | D12 | D8 | 1 | 2 | Healing D10, Artistry D10, Observation D8 |
-| Archivest | D8 | D10 | D12 | D8 | 1 | 2 | Artistry D12, Observation D10, Intuition D10 |
-| Student | D8 | D10 | D10 | D10 | 1 | 2 | Shadowcraft D8, Artistry D8, Inspiration D8 |
-| Farmer | D12 | D8 | D8 | D8 | 2 | 1 | Might D10, Grace D8, Artistry D6 |
+| Alchemist | D8 | D12 | D12 | D8 | 1 | 2 | Healing D10, Culture D10, Observation D8 |
+| Archivest | D8 | D10 | D12 | D8 | 1 | 2 | Culture D12, Observation D10, Intuition D10 |
+| Student | D8 | D10 | D10 | D10 | 1 | 2 | Shadowcraft D8, Culture D8, Inspiration D8 |
+| Farmer | D12 | D8 | D8 | D8 | 2 | 1 | Might D10, Grace D8, Culture D6 |
 | Blacksmith | D12 | D8 | D10 | D8 | 2 | 1 | Grace D8, Might D8, Inspiration D6 |
 | Maid | D8 | D8 | D10 | D10 | 1 | 1 | Might D8, Shadowcraft D8, Observation D6 |
 | Priest | D8 | D8 | D10 | D12 | 1 | 3 | Inspiration D12, Observation D10, Inspiration D8, Healing D6 |
@@ -23,9 +23,9 @@ NPCs and animals do not usually recover Toughness during a adventure – once da
 | Hunter | D8 | D12 | D10 | D8 | 2 | 2 | Marksmanship D10, Survival Instincts D10, Might D6 |
 | Street child | D10 | D8 | D8 | D10 | 1 | 1 | Grace D10, Shadowcraft D10, Bladework D6, Inspiration D6 |
 | Dockworker | D12 | D8 | D8 | D8 | 3 | 1 | Might D12, Bladework D10 |
-| Merchant | D8 | D8 | D10 | D10 | 1 | 1 | Inspiration D10, Artistry D8, Observation D8 |
-| Seer | D8 | D8 | D12 | D10 | 1 | 2 | Artistry D10, Observation D8 |
-| Storyteller | D8 | D8 | D10 | D12 | 1 | 2 | Artistry D8, Intuition D8, Inspiration D10 |
+| Merchant | D8 | D8 | D10 | D10 | 1 | 1 | Inspiration D10, Culture D8, Observation D8 |
+| Seer | D8 | D8 | D12 | D10 | 1 | 2 | Culture D10, Observation D8 |
+| Storyteller | D8 | D8 | D10 | D12 | 1 | 2 | Culture D8, Intuition D8, Inspiration D10 |
 
 > [!important] Magicians and Witches
 > It is possible for some human NPCs to use magic. Give your NPC a Speciality, just like you would for PCs this will give them access to one or several magical powers.

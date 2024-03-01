@@ -39,11 +39,12 @@ If player characters are facing animals in combat, the animals attack with Might
 | Griffin | D8+D10 | D12+D12 | 4 | 3 |
 | Manticore | D8+D10 | D8+D10 | 4 | 2 |
 | Serpent | D10+D12 | D8+D10 | 3 | 2 |
-# Constructs
+# Golems
 
- Amidst the shifting magic of Al-Sarab, some ancient constructs have begun to come "alive" once more. These golems, war machines, or small mechanical workers are relics of the First Worshippers, and their creation and maintenance go far beyond the current knowledge of those that call Al-Sarab home. Some wreak havoc, while others stand as guardians, protectors of the ancient knowledge embedded within their metallic sinews.
+ Amidst the shifting magic of Al-Sarab, some ancient golems, have begun to come "alive" once more. These constructs, war machines, or small mechanical workers are relics of the First Worshippers, and their creation and maintenance go far beyond the current knowledge of those that call Al-Sarab home. Some wreak havoc, while others stand as guardians, protectors of the ancient knowledge embedded within their metallic sinews.
 
 ### Crystalpower
+
 Crystalpower (CP) is essentially how much energy a construct has. This power most likely comes from the crystals found within the construct, though magic is clearly involved. This Attribute not only affects how long the Construct can move and act, but can also determine how powerful its attacks are or how quickly it moves.  
 
  At the beginning of each round of combat CP is reduced by 1. When it is reduced to 0, the construct is not dead, but enters a regeneration state - the length of time differs depending on the construct. 
@@ -55,13 +56,13 @@ Crystalpower (CP) is essentially how much energy a construct has. This power mos
 
 ## Crystalworkers
 
-## Golems
+## Protector Golems
 
-Towering over the landscape like titans of old, these majestic constructs are crafted from the very essence of the earth itself, their forms hewn from the crystalline heart of the desert. Each golem bears the mark of its creators, with intricate patterns etched into its rock, crystal, or metallic frame, symbols of power and protection that have withstood the test of time.
+Towering over the landscape like titans of old, these majestic constructs are crafted from the very essence of the earth itself, their forms hewn from the crystalline heart of the desert. Each protector bears the mark of its creators, with intricate patterns etched into its rock, crystal, or metallic frame, symbols of power and protection that have withstood the test of time.
 
 Their eyes, aglow with the ethereal light of ancient magic, pierce through the darkness, scanning the horizon with unwavering vigilance. The air crackles with energy in their presence, the hum of their crystal cores echoing across the barren landscape, a constant reminder of the power that courses through their veins. To those who dare to approach, the golems exude an aura of both awe and dread, their imposing stature a testament to the might and majesty of the First Worshippers who fashioned them from the very elements of the earth. In their gaze lies the wisdom of ages past, a silent testament to the secrets buried beneath the shifting sands.
 
-In battle, golems are unstoppable forces of nature, their movements fluid yet deliberate, their strikes devastating in their precision. The are said to wield the strength of a thousand storms, their crystalline fists shattering stone and bone alike, their relentless pursuit of their foes a testament to their unwavering commitment to their duty. To face a golem is to face the wrath of the ancients themselves, a trial of strength and will against a foe as timeless as the desert sands.
+In battle, protectors are unstoppable forces of nature, their movements fluid yet deliberate, their strikes devastating in their precision. The are said to wield the strength of a thousand storms, their crystalline fists shattering stone and bone alike, their relentless pursuit of their foes a testament to their unwavering commitment to their duty. To face a protector is to face the wrath of the ancients themselves, a trial of strength and will against a foe as timeless as the desert sands.
 
 --- start-multi-column: ID_golem
 

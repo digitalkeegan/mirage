@@ -2,9 +2,6 @@
 quickshare-date: 2024-02-10 21:30:27
 quickshare-url: "https://noteshare.space/note/clsg6bivc3207501mwemuy9wtv#j5I1wPioNdmX2k4X+X8QCW5qP0FSHPFh+82ayzGWujE"
 ---
-
-> [!Warning] Gamemaster only
-> All that follows in this chapter and those that follow are only intended for the Gamemaster. If you are a player, you should read no further - there are some very big spoilers ahead, beware!
 # Running Campaigns
 
 Games of Mirage are not only intended to invoke feelings of wonder and excitement, but also a sense of nostalgia - as if you and your players were right in the midst of a grand story, told around the campfire late at night. To this end, we've compiled some suggestions for you that should help encourage this atmosphere.
@@ -66,18 +63,20 @@ Each section of this adventure includes "Post-Chapter Conversations". These are 
 After allowing the players some time to talk about what is going on with them, read the following:
 
 > [!quote] The Shift
-> Suddenly, the air around you takes on an edge. Something has happened. And then too many things occur at the same time. The first is a young girl, running up to you, starts to beg you for help - babbling about some child.
-> The second, is that the sky above *flickers* revealing a different one far above you. The crowd murmurs and some people even flee the marketplace in a hurry.
+> While the party makes their way around the area, they pass by the Alwataq - the location of the madinah's protective anchoring crystal. Suddenly, the air around you takes on an edge. A shiver goes through the party, from the direction of the Alwataq, and the air above madinah  *flickers* with a magical energy. The crowd around you murmurs and some people even leave the marketplace in a hurry.
 
 (You'll want to describe the biome outside the Madinah here. If you forgot to roll on the Biome Inspiration table before starting, do so now and describe what the players see outside the protective anchor.)
 
+> [!info] The nature of the anchor
+> A madinah's anchor protects the area from the change-magic of Al-Sarab. But the environment outside this protective shield is very much visible from the inside of the protective magic. If a madinah is located inside a desert, and a rogue mirage turns the outside area into a jungle, the denizens of the madiah can see the jungle. 
+
 >[!quote]  .
-> Thirdly, a call goes up from across the marketplace, in the direction of the Alwataq - the location of the madinah's protective anchoring crystal.
+> Just as the crowd starts to settle, you hear a frustrated shout come from within the Alwataq. At the same time, a young girl, running up to you, starts to beg you for help - babbling about some child.
 >
 What do you do?
 
 > [!warning] Split-party
-> If you find that the party splits up in an attempt to cover both of their bases, you can allow this if you'd like. If you'd prefer to keep it simple, the young girl actually goes to the Alwataq for help. After being reunited, if the party splits yet again, the young girl grows frantic on her way through the crowds, and actually loses those going with her in the throng of people attempting to go home after all the excitement of the anchor flickering. 
+> If you find that the party splits up in an attempt to cover both of their bases, you can allow this if you'd like. If you'd prefer to keep it simple, the young girl actually goes to into the Alwataq for help. After being reunited, if the party splits yet again, the young girl grows frantic on her way through the crowds, and actually loses those going with her in the throng of people attempting to go home after all the excitement of the anchor flickering. 
 ## The Young Girl
 
 A frantic girl, eyes wide with worry, bursts through the crowd. They move away from, or ignore, her - it's clear shes not well-off. "My Zahir," she gasps, "he's gone! Vanished! Please help me! All I found was this..." They thrust a crumpled parchment towards you, revealing a child's scrawled message: 
@@ -99,7 +98,7 @@ As the players attempt to learn more about Zahir, a faint shimmer distorts the a
 The aaperi, seems to be intrigued by the players' investigation, and offers veiled hints - cooing whenever they pay attention to the more mythical drawings and crying at the picture of Amira. In exchange for a small offering (a shiny charm, a sweet treat), it will reveal:
 
 - Zahir found an old brass bottle in the ruins outside the madinah.  
-- The bottle held a jinn, and Zahir wished for a friend that truly understood him.
+- The bottle held a djinn, and Zahir wished for a friend that truly understood him.
 - Zahir and the jinn vanished together, leaving only the chilling message.
 
 >[!quote] The aaperi teases
@@ -112,7 +111,7 @@ Just outside the Alwataq you find an elderly gentleman slumped against the outer
 The elder, their weathered face etched with concern, looks up as you approach. "What did you see? What happened out here?"
 
 > [!info] Inside the Alwataq
-Inside the building a large crystal, 7 feet high, is set inside the floor. The ground is covered in metallic runes, and clockwork or crystalwork contraptions can be found on shelves and workbenches that cover the walls. The building is domed, and above the crystal a beautiful painting of the night sky, stars and all, can be found. It shimmers, and an Artistry check will confirm that it moves and changes to reflect the real sky. 
+Inside the building a large crystal, 7 feet high, is set inside the floor. The ground is covered in metallic runes, and clockwork or crystalwork contraptions can be found on shelves and workbenches that cover the walls. The building is domed, and above the crystal a beautiful painting of the night sky, stars and all, can be found. It shimmers, and an Culture check will confirm that it moves and changes to reflect the real sky. 
 
 Farid will confide in the party, in private within the Alwataq, only if they swear an oath of secrecy. "The anchor," they rasp, their voice laced with urgency, "it weakens. Our shield against the shifting sands falters - and I do not know what to do." The party is *very* unlikely to know more than Farid in this matter, but he will provide more context if they can calm him down or convince him in some other way. The anchor has failed in the past, but always because of some 'natural' reason - the moons aligning, or an Al-Mi'raj getting into the building. After verbally processing, Farid will consider something new - what if it's something *unseen*. If this is the case, he's not the right person to talk to. Farid's pride hangs in the balance here. He has kept the madinah safe for decades, it failing now in his old age will only make others pity him and he'll be replaced. 
 
@@ -132,6 +131,7 @@ Farid will inform the players that, if they would like to help keep the madinah 
 	- *Discussion of courage: This question prompts players to consider how their characters weigh the risks and rewards of helping others, and whether they demonstrate courage in the face of uncertainty.*
 - Upon discovering Zahir's shelter and the evidence of his disappearance, what thoughts or emotions did your character experience regarding the plight of those less fortunate? 
 	- *Reflection on empathy: This question encourages players to empathise with the struggles of marginalised characters like Zahir and Amira, prompting discussions about empathy and compassion. Where do you think that desire to show compassion comes from?*
+
 
 ### Questions around Farid
 - When faced with Farid's plea for secrecy regarding the anchor's condition, how did your character balance the importance of confidentiality with the need for transparency and accountability?
@@ -157,7 +157,7 @@ As the players delve deeper into the ruins, either in search of the mystic Abyad
 
 ## The Protector
 
-The statue at the centre of this library is, in fact, a golem - a piece of ancient technology, completely beyond what's currently possible in Al-Sarab. If players progress through the library without touching anything, then the construct remains inert. If the players touch the statue, or any book within the library, the statue will stand up straight, turning its head to "look" at the players. If they continue in whatever initially brought them to the attention of the sentinel, it will move to defend the area. On a successful Observation or Artistry check the party notes that the golem walks with a limp, and is slow to bring itself to bare against the party.  
+The statue at the centre of this library is, in fact, a golem - a piece of ancient technology, completely beyond what's currently possible in Al-Sarab. If players progress through the library without touching anything, then the construct remains inert. If the players touch the statue, or any book within the library, the statue will stand up straight, turning its head to "look" at the players. If they continue in whatever initially brought them to the attention of the sentinel, it will move to defend the area. On a successful Observation or Culture check the party notes that the golem walks with a limp, and is slow to bring itself to bare against the party.  
 
 ### Broken Golem
 --- start-multi-column: ID_golem
@@ -178,7 +178,7 @@ Largest Column: standard
  At the beginning of each round of combat CP is reduced by 1. When it is reduced to 0, the golem will shut down and enter a regeneration state. CP increase by 1 per day to maximum of 4
  
 **Exposed Heart crystal**
-A successful Observation or Artistry roll reveals that the golems heartcrystal is exposed. The first time the heartcrystal is damaged it receives twice the amount of damage. The golem then closes the exposed section of its chest.
+A successful Observation or Culture roll reveals that the golems heartcrystal is exposed. The first time the heartcrystal is damaged it receives twice the amount of damage. The golem then closes the exposed section of its chest.
 
 --- column-break ---
 
@@ -213,13 +213,11 @@ Attack: Powerbeam (consumes 1CP)
 
 --- end-multi-column
 ### Searching the Library
-A successful Artistry check on the shit-down sentinel will reveal that it has markings on it that resemble the anchor's energy flow. Deciphering these markings might reveal how to strengthen an anchor - if they had knowledge of such things. 
+A successful Culture check on the shit-down sentinel will reveal that it has markings on it that resemble the anchor's energy flow. Deciphering these markings might reveal how to strengthen an anchor - if they had knowledge of such things. 
 
 A successful Observation (multiple needed if in combat) check while searching the library for information on the construct will reveal a scroll documenting how it can be "changed". It seems that the only real thing that can be altered is *what* it protects, not how it protects, or how severe its actions will be.
 
 A successful Observation (multiple needed if in combat) check while searching the library for information on anchors will reveal a partially destroyed tome on the anchor's construction and maintenance. They discover the anchor requires specific magical materials to function at full capacity, materials now depleted and scattered due to natural disasters or forgotten conflicts.
-
-
 
 
 ## The Jinn
